@@ -1,4 +1,3 @@
-Creating a comprehensive README file is essential for any project as it provides users with a clear understanding of the project, its setup, usage, and contribution guidelines. Below is a template for a README file for your Member Management API project, which you can customize further according to your needs.
 
 ```markdown
 # Member Management API
@@ -134,9 +133,7 @@ Contributions are welcome! Please follow these steps to contribute:
 5. Push to the branch (`git push origin feature/YourFeature`).
 6. Create a new Pull Request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
 ### Customization Tips
