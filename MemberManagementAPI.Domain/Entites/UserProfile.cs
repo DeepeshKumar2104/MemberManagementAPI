@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MemberManagementAPI.Domain.Entites
 {
-    internal class UserProfile
+    public class UserProfile
     {
     }
 }

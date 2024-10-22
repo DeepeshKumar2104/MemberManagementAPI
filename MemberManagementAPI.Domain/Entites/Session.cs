@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MemberManagementAPI.Domain.Entites
 {
-    internal class Session
+    public class Session
     {
     }
 }
